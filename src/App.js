@@ -177,8 +177,8 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>Anime Recommendation</h1>
-      <h2>Select a Genre to get Started!</h2>
+      <h1>The Anime Inventory</h1>
+      <h3>Select any genre to your liking and let's go!</h3>
       <div>
         {genreNames.map((genre) => {
           return (
