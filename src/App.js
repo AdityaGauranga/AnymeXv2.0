@@ -32,6 +32,13 @@ const AllSeries = {
         "https://m.media-amazon.com/images/M/MV5BMTY5ODk1NzUyMl5BMl5BanBnXkFtZTgwMjUyNzEyMTE@._V1_.jpg",
       Rating: `9.1/10`
     },
+     {
+      Title: "One peice",
+      Description: `just the best`,
+      Image:
+        "https://m.media-amazon.com/images/M/MV5BMTY5ODk1NzUyMl5BMl5BanBnXkFtZTgwMjUyNzEyMTE@._V1_.jpg",
+      Rating: `8.1/10`
+    },
     {
       Title: "One Punch Man",
       Description: `Saitama, a superhero who can defeat any opponent with a single punch but seeks to find a worthy opponent after growing bored by a lack of challenge due to his overwhelming strength.`,
